@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-650-statistics-for-applications-fall-2016/b4750b65e80ae82285fd8b1175f4ee21_0Va2dOLqUfM.pdf
+file: /media/courses/18-650-statistics-for-applications-fall-2016/b4750b65e80ae82285fd8b1175f4ee21_0Va2dOLqUfM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: b4750b65-e80a-e822-85fd-8b1175f4ee21

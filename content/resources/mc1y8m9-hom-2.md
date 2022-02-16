@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-650-statistics-for-applications-fall-2016/15f632c5aa4c5ada8353ef9ce62fd2d7_mc1y8m9-hOM.vtt
+file: /media/courses/18-650-statistics-for-applications-fall-2016/15f632c5aa4c5ada8353ef9ce62fd2d7_mc1y8m9-hOM.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 15f632c5-aa4c-5ada-8353-ef9ce62fd2d7

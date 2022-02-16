@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture 7 Regression
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-650-statistics-for-applications-fall-2016/2c0395a301a2ca798b1c0ee18cf6eedc_MIT18_650F16_Regression.pdf
+file: /media/courses/18-650-statistics-for-applications-fall-2016/2c0395a301a2ca798b1c0ee18cf6eedc_MIT18_650F16_Regression.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '18.650 (F16) Lecture 7: Regression'
 uid: 2c0395a3-01a2-ca79-8b1c-0ee18cf6eedc
