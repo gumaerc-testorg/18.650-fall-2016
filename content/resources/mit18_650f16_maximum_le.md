@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 83f9dd4c-6461-4557-15ae-ef55103db1f9
 resourcetype: Document
 title: '18.650 (F16) Lecture 3: Maximum Likelihood Estimation'
 uid: 36624c26-82b3-46b0-7cab-3da416b752a7

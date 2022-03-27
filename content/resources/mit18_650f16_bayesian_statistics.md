@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 83f9dd4c-6461-4557-15ae-ef55103db1f9
 resourcetype: Document
 title: '18.650 (F16) Lecture 8: Bayesian Statistics'
 uid: 84a7bb42-1c62-e9ed-f672-1c0bd2465361
