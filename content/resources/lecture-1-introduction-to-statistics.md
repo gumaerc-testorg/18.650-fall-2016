@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 \*NOTE: This video was recorded in Fall 2017. The rest of the lectures were recorded in Fall 2016, but video of Lecture 1 was not available.
+
+
+

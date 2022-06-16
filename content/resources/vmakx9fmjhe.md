@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-650-statistics-for-applications-fall-2016/3a9305491bfa150b68fb1fd4330c7ca6_vMaKx9fmJHE.srt
+file: /courses/18-650-statistics-for-applications-fall-2016/3a9305491bfa150b68fb1fd4330c7ca6_vMaKx9fmJHE.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

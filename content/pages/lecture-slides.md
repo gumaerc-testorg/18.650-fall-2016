@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes a full set of the lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1-2
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Statistics (PDF)]({{< baseurl >}}/resources/mit18_650f16_introduction)
+{{% resource_link 7836ea6d-1016-79d4-9519-4bc3c5f227fa "Introduction to Statistics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Parametric Inference (PDF)]({{< baseurl >}}/resources/mit18_650f16_parametric_inf)
+{{% resource_link 335fd85c-0a2e-cffc-49c7-81502b3d9b95 "Parametric Inference (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ TOPICS
 4-5
 {{< tdclose >}}
 {{< tdopen >}}
-[Maximum Likelihood Estimation (PDF)]({{< baseurl >}}/resources/mit18_650f16_maximum_le)
+{{% resource_link 36624c26-82b3-46b0-7cab-3da416b752a7 "Maximum Likelihood Estimation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[The Method of Moments (PDF)]({{< baseurl >}}/resources/mit18_650f16_method_of_moments)
+{{% resource_link d80691f2-2540-3614-39d2-e3e145d61783 "The Method of Moments (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ TOPICS
 7-10
 {{< tdclose >}}
 {{< tdopen >}}
-[Parametric Hypothesis Testing (PDF)]({{< baseurl >}}/resources/mit18_650f16_parametric_ht)
+{{% resource_link 11b4116a-a55b-4e02-8814-1bd40a39104f "Parametric Hypothesis Testing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ TOPICS
 11-12
 {{< tdclose >}}
 {{< tdopen >}}
-[Testing Goodness of Fit (PDF)]({{< baseurl >}}/resources/mit18_650f16_testing_gf)
+{{% resource_link 9ecfca90-5ca7-a84c-485c-ba65854fadb1 "Testing Goodness of Fit (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ TOPICS
 13-16
 {{< tdclose >}}
 {{< tdopen >}}
-[Regression (PDF - 1.2MB)]({{< baseurl >}}/resources/mit18_650f16_regression)
+{{% resource_link 2c0395a3-01a2-ca79-8b1c-0ee18cf6eedc "Regression (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ TOPICS
 17-18
 {{< tdclose >}}
 {{< tdopen >}}
-[Bayesian Statistics (PDF)]({{< baseurl >}}/resources/mit18_650f16_bayesian_statistics)
+{{% resource_link 84a7bb42-1c62-e9ed-f672-1c0bd2465361 "Bayesian Statistics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ TOPICS
 19-20
 {{< tdclose >}}
 {{< tdopen >}}
-[Principal Component Analysis (PDF)]({{< baseurl >}}/resources/mit18_650f16_pca)
+{{% resource_link d85e1a9d-1131-42ad-e8ce-5e4f5ef0b4e8 "Principal Component Analysis (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ TOPICS
 21-24
 {{< tdclose >}}
 {{< tdopen >}}
-[Generalized Linear Models (PDF)]({{< baseurl >}}/resources/mit18_650f16_glm)
+{{% resource_link dff89368-051a-5fea-e72b-39c6422d0752 "Generalized Linear Models (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes Course Meeting Times, Prerequisites, Topics Covered,
+  and grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-Probability theory at the level of _[18.440 Probability and Random Variables](/courses/18-440-probability-and-random-variables-spring-2014/)_. Some linear algebra (matrices, vectors, eigenvalues).
+Probability theory at the level of _[18.440 Probability and Random Variables](/courses/18-440-probability-and-random-variables-spring-2014)_. Some linear algebra (matrices, vectors, eigenvalues).
 
 Course Description
 ------------------
