@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-650-statistics-for-applications-fall-2016/b7f4bec15236c5d85b3a917441a1cd86_lWW54ts9Ubo.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

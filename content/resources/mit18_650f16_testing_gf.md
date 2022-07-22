@@ -5,6 +5,7 @@ file: /courses/18-650-statistics-for-applications-fall-2016/9ecfca905ca7a84c485c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '18.650 (F16) Lecture 6: Testing goodness of fit'
 uid: 9ecfca90-5ca7-a84c-485c-ba65854fadb1
 ---
 Lecture 6 Testing Goodness of Fit
-

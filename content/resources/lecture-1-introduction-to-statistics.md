@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 \*NOTE: This video was recorded in Fall 2017. The rest of the lectures were recorded in Fall 2016, but video of Lecture 1 was not available.
-
-
 

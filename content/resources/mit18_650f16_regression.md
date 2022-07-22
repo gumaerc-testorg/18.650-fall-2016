@@ -5,6 +5,7 @@ file: /courses/18-650-statistics-for-applications-fall-2016/2c0395a301a2ca798b1c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '18.650 (F16) Lecture 7: Regression'
 uid: 2c0395a3-01a2-ca79-8b1c-0ee18cf6eedc
 ---
 Lecture 7 Regression
-

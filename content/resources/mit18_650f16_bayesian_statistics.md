@@ -5,6 +5,7 @@ file: /courses/18-650-statistics-for-applications-fall-2016/84a7bb421c62e9edf672
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '18.650 (F16) Lecture 8: Bayesian Statistics'
 uid: 84a7bb42-1c62-e9ed-f672-1c0bd2465361
 ---
 Lecture 8 Bayesian Statistics
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-650-statistics-for-applications-fall-2016/8f10a5ea4414f4a2def3532f69c78f0e_4HRhg4eUiMo.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
