@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 2 Parametric Inference
 file: /courses/18-650-statistics-for-applications-fall-2016/335fd85c0a2ecffc49c781502b3d9b95_MIT18_650F16_Parametric_Inf.pdf
+file_size: 159859
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
