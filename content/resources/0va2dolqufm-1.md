@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-650-statistics-for-applications-fall-2016/b4750b65e80ae82285fd8b1175f4ee21_0Va2dOLqUfM.pdf
+file_size: 95133
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
