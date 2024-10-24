@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 6 Testing Goodness of Fit
-file: /courses/18-650-statistics-for-applications-fall-2016/9ecfca905ca7a84c485cba65854fadb1_MIT18_650F16_Testing_GF.pdf
+file: /ol-ocw-studio-app/courses/18-650-statistics-for-applications-fall-2016/9ecfca905ca7a84c485cba65854fadb1_MIT18_650F16_Testing_GF.pdf
 file_size: 270008
 file_type: application/pdf
 learning_resource_types:
