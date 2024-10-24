@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 7 Regression
-file: /courses/18-650-statistics-for-applications-fall-2016/2c0395a301a2ca798b1c0ee18cf6eedc_MIT18_650F16_Regression.pdf
+file: /ol-ocw-studio-app/courses/18-650-statistics-for-applications-fall-2016/2c0395a301a2ca798b1c0ee18cf6eedc_MIT18_650F16_Regression.pdf
 file_size: 1091631
 file_type: application/pdf
 learning_resource_types:
