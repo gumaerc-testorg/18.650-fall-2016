@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 5 Parametric Hypothesis Testing
-file: /courses/18-650-statistics-for-applications-fall-2016/11b4116aa55b4e0288141bd40a39104f_MIT18_650F16_Parametric_HT.pdf
+file: /ol-ocw-studio-app/courses/18-650-statistics-for-applications-fall-2016/11b4116aa55b4e0288141bd40a39104f_MIT18_650F16_Parametric_HT.pdf
 file_size: 261063
 file_type: application/pdf
 learning_resource_types:
