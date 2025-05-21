@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 8 Bayesian Statistics
-file: /ol-ocw-studio-app/courses/18-650-statistics-for-applications-fall-2016/84a7bb421c62e9edf6721c0bd2465361_MIT18_650F16_Bayesian_Statistics.pdf
+file: /courses/18-650-statistics-for-applications-fall-2016/84a7bb421c62e9edf6721c0bd2465361_MIT18_650F16_Bayesian_Statistics.pdf
 file_size: 169468
 file_type: application/pdf
 learning_resource_types:

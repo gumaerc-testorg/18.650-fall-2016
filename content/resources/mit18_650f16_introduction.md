@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture  1: Introduction to Statistics'
-file: /ol-ocw-studio-app/courses/18-650-statistics-for-applications-fall-2016/7836ea6d101679d495194bc3c5f227fa_MIT18_650F16_Introduction.pdf
+file: /courses/18-650-statistics-for-applications-fall-2016/7836ea6d101679d495194bc3c5f227fa_MIT18_650F16_Introduction.pdf
 file_size: 373416
 file_type: application/pdf
 learning_resource_types:
